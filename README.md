@@ -1,2 +1,2 @@
 # overclock
-School project
+A game I made for my capstone at school
